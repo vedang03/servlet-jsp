@@ -1,0 +1,19 @@
+package com.aurionpro.jdbc;
+
+import java.util.List;
+
+import com.aurionpro.model.Student;
+
+public class StudentDbUtil {
+
+	public void init() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public List<Student> getAllStudents() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

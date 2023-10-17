@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/functions" prefix="fn" %>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>JSTL contains</h1>
+<c:set var="str1" value="JSTL Function" ></c:set>
+<c:set var="str2" value="JSTL" ></c:set>	
+
+ <c:if test="${fn:contains(str1, str2)}">
+  <c:out value="'JSTL' substring present in 'JSTL Function' string" />
+</c:if>
+
+<h1>JSTL length</h1>
+<c:set var="str" value="Vedang" />
+<p>Word:Vedang</p>
+Length = ${fn:length(str)}
+</body>
+</html>

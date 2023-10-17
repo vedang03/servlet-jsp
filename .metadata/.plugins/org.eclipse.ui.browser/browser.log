@@ -1,0 +1,44 @@
+
+Oct 06, 2023 19:15:21.26 NEW SESSION
+Oct 06, 2023 19:15:21.26 [20376:17956:1006/191521.258:ERROR:device_event_log_impl.cc(225)] [19:15:21.258] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 06, 2023 19:35:09.12 [20376:17956:1006/193509.125:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 06, 2023 23:07:23.84 [20376:11780:1006/230723.845:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 06, 2023 23:07:38.03 [20376:11780:1006/230738.020:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 07, 2023 24:17:34.30 [20376:11780:1007/001734.307:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 07, 2023 13:19:52.85 [20376:16920:1007/131952.810:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 07, 2023 13:19:52.88 [20376:11780:1007/131952.865:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 07, 2023 13:23:31.43 [20376:17956:1007/132331.433:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 07, 2023 13:27:15.69 [20376:17956:1007/132715.689:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 07, 2023 13:45:49.50 [20376:17956:1007/134549.502:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 07, 2023 15:06:04.63 [20376:11780:1007/150604.629:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 07, 2023 15:06:31.67 [20376:11780:1007/150631.674:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 15:07:23.73 [20376:11780:1007/150723.736:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 15:09:03.47 [20376:11780:1007/150903.474:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 17:40:39.24 [20376:11780:1007/174039.249:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -106
+Oct 07, 2023 17:40:39.25 [20376:14284:1007/174039.255:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 07, 2023 18:47:40.42 [20376:11780:1007/184621.285:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 07, 2023 18:47:45.48 [20376:11780:1007/184745.487:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 08, 2023 24:10:05.66 [20376:11780:1007/193400.331:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 08, 2023 24:10:05.85 [20376:11780:1008/001005.805:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2023 24:10:05.96 [20376:19208:1008/001005.958:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 08, 2023 24:10:10.69 [20376:11780:1008/001010.693:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 08, 2023 24:10:19.10 [20376:11780:1008/001019.098:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 08, 2023 24:20:48.47 [20376:11780:1008/002048.465:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 08, 2023 06:01:24.44 [20376:15448:1008/060124.433:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 08, 2023 11:01:38.09 [20376:11780:1008/110137.885:ERROR:connection_factory_impl.cc(428)] Failed to connect to MCS endpoint with error -105
+Oct 08, 2023 11:01:38.11 [20376:16920:1008/110138.051:ERROR:get_updates_processor.cc(261)] PostClientToServerMessage() failed during GetUpdates with error 2
+Oct 08, 2023 18:20:18.61 [20376:11780:1008/153909.396:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 08, 2023 18:20:34.71 [20376:11780:1008/182034.713:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+Oct 08, 2023 18:39:39.61 [20376:11780:1008/183939.612:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Oct 12, 2023 18:48:26.62 NEW SESSION
+Oct 12, 2023 18:48:26.62 [14152:26504:1012/184826.606:ERROR:device_event_log_impl.cc(225)] [18:48:26.603] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 12, 2023 18:51:45.63 [14152:26504:1012/185145.625:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 12, 2023 18:53:33.49 [14152:26504:1012/185333.490:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 12, 2023 19:51:54.76 [14152:26504:1012/195154.768:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 12, 2023 22:35:57.16 [14152:26504:1012/223557.162:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)
+Oct 12, 2023 23:09:33.11 [14152:3712:1012/230933.112:ERROR:connection_factory_impl.cc(471)] ConnectionHandler failed with net error: -2
+
+Oct 16, 2023 22:30:58.57 NEW SESSION
+Oct 16, 2023 22:30:58.57 [24328:11696:1016/223058.567:ERROR:device_event_log_impl.cc(225)] [22:30:58.561] USB: usb_service_win.cc:415 Could not read device interface GUIDs: The system cannot find the file specified. (0x2)
+Oct 16, 2023 23:52:33.70 [24328:11696:1016/235233.699:ERROR:CONSOLE(337)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('chrome-untrusted://new-tab-page') does not match the recipient window's origin ('chrome://new-tab-page').", source: chrome://new-tab-page/shared.rollup.js (337)

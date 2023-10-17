@@ -1,0 +1,58 @@
+package com.aurionpro.jdbc;
+
+import java.sql.Connection;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.sql.DataSource;
+
+import com.aurionpro.model.Student;
+
+public class StudentDbUtil {
+
+	
+
+	
+
+
+
+
+	private DataSource dataSource;
+
+	public StudentDbUtil(DataSource dataSource) {
+	 this.dataSource = dataSource;
+	}
+
+	public void init() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public List<Student> getAllStudents() {
+		List<Student>students = new ArrayList<>();
+		try {
+			Connection conn = null;
+			Statement stmt = null;
+			ResultSet result = null;
+			conn = dataSource.getConnection();
+			String sql = "select * from student";
+			stmt = conn.createStatement();
+			result = stmt.executeQuery(sql);
+			
+			while(result.next()) {
+				String firstName = result.getString("first_name");
+				String lastName = result.getString("last_name");
+				String email = result.getString("email");
+				students.add(new Student(firstName,lastName,email));
+			}
+			} catch (SQLException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		return students;
+	}
+
+}

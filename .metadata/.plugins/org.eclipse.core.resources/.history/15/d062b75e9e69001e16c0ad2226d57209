@@ -1,0 +1,5 @@
+package com.aurionpr.model;
+
+public class StudentServlet {
+
+}
